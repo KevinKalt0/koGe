@@ -1,0 +1,12 @@
+:root {
+  --primary-color: #FF8C00;    /* Orange */
+  --secondary-color: #8B008B;  /* Violet */
+}
+
+.primary-bg {
+  background-color: var(--primary-color);
+}
+
+.secondary-bg {
+  background-color: var(--secondary-color);
+} 
